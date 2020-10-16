@@ -1,6 +1,20 @@
 # Leetcode-Monthly-Challenges
 Leetcode Monthly Challenges from 26 September 2020 onwards
 
+## September
+
+### Week 4
+[September 26 - Teemo Attacking](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/September2020/26TeemoAttacking.cpp)
+
+[September 27 - Evaluate Division](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/September2020/27EvaluateDivision.cpp)
+
+[September 28 - Subarray Product Less Than K](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/September2020/28SubarrayProductLessThanK.cpp)
+
+### Week 5
+[September 29 - Word Break](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/September2020/29WordBreak.cpp)
+
+[September 30 - First Missing Positive](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/September2020/30FirstMissingPositive.cpp)
+
 ## October
 
 ### Week 1
