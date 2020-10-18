@@ -45,3 +45,5 @@ Leetcode Monthly Challenges from 26 September 2020 onwards
 
 ### Week 3
 [October 16 - Search a 2D Matrix](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/October2020/16SearchA2DMatrix.cpp)
+
+[October 17 - Repeated DNA Sequences](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/October2020/17RepeatedDNASequences.cpp)
