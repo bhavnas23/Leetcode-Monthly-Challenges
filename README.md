@@ -47,3 +47,16 @@ Leetcode Monthly Challenges from 26 September 2020 onwards
 [October 16 - Search a 2D Matrix](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/October2020/16SearchA2DMatrix.cpp)
 
 [October 17 - Repeated DNA Sequences](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/October2020/17RepeatedDNASequences.cpp)
+
+[October 19 - Minimum Domino Rotations For Equal Row](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/October2020/19MinimumDominoRotationsForEqualRow.cpp)
+
+[October 20 - Clone Graph](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/October2020/20CloneGraph.cpp)
+
+[October 21 - Asteroid Collision](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/October2020/21AsteroidCollision.cpp)
+
+### Week 4
+[October 22 - Minimum Depth of Binary Tree](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/October2020/22MinimumDepthOfBinaryTree.cpp)
+
+[October 23 - 132 Pattern](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/October2020/23_132Pattern.cpp)
+
+[October 24 - Bag of Tokens](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/October2020/24BagOfTokens.cpp)
