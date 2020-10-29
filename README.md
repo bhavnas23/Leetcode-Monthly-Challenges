@@ -60,3 +60,9 @@ Leetcode Monthly Challenges from 26 September 2020 onwards
 [October 23 - 132 Pattern](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/October2020/23_132Pattern.cpp)
 
 [October 24 - Bag of Tokens](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/October2020/24BagOfTokens.cpp)
+
+[October 25 - Stone Game IV](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/October2020/25StoneGameIV.cpp)
+
+[October 27 - Linked List Cycle II](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/October2020/27LinkedListCycleII.cpp)
+
+[October 28 - Summary Ranges](https://github.com/bhavnas23/Leetcode-Monthly-Challenges/blob/main/October2020/28SummaryRanges.cpp)
